@@ -1,0 +1,14 @@
+C:\Users\mmoam\source\repos\SP\bin\Debug\netcoreapp3.1\SP.exe
+C:\Users\mmoam\source\repos\SP\bin\Debug\netcoreapp3.1\SP.deps.json
+C:\Users\mmoam\source\repos\SP\bin\Debug\netcoreapp3.1\SP.runtimeconfig.json
+C:\Users\mmoam\source\repos\SP\bin\Debug\netcoreapp3.1\SP.runtimeconfig.dev.json
+C:\Users\mmoam\source\repos\SP\bin\Debug\netcoreapp3.1\SP.dll
+C:\Users\mmoam\source\repos\SP\bin\Debug\netcoreapp3.1\SP.pdb
+C:\Users\mmoam\source\repos\SP\obj\Debug\netcoreapp3.1\SP.csproj.AssemblyReference.cache
+C:\Users\mmoam\source\repos\SP\obj\Debug\netcoreapp3.1\SP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmoam\source\repos\SP\obj\Debug\netcoreapp3.1\SP.AssemblyInfoInputs.cache
+C:\Users\mmoam\source\repos\SP\obj\Debug\netcoreapp3.1\SP.AssemblyInfo.cs
+C:\Users\mmoam\source\repos\SP\obj\Debug\netcoreapp3.1\SP.csproj.CoreCompileInputs.cache
+C:\Users\mmoam\source\repos\SP\obj\Debug\netcoreapp3.1\SP.dll
+C:\Users\mmoam\source\repos\SP\obj\Debug\netcoreapp3.1\SP.pdb
+C:\Users\mmoam\source\repos\SP\obj\Debug\netcoreapp3.1\SP.genruntimeconfig.cache
